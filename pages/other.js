@@ -11,7 +11,7 @@ export default function Home() {
 
 	return (
 		<>
-			<h1>{t("welcome")}</h1>
+			<h1>{t("other")}</h1>
 		</>
 	);
 }

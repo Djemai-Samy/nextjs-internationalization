@@ -1,0 +1,8 @@
+{
+  "welcome": "Welcome to our website.",
+  "other": "Another page",
+  "pages":{
+    "home":"Home",
+    "other":"Other"
+  }
+}
